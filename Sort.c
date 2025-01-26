@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-//Struct for values and keys
+//Struct for values and position indicators
 typedef struct {
 
     int value;
